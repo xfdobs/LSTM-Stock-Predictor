@@ -37,8 +37,9 @@ Finally, use the testing data to evaluate each model and compare the performance
 Use the above to answer the following:
 
 > Which model has a lower loss?
->
+>  closing price model
 > Which model tracks the actual values better over time?
->
+>   closing price
 > Which window size works best for the model?
+> 10
 
